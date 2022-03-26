@@ -12,5 +12,6 @@ Remove Extra Spaces, Your text summary, how much time user will take to read the
 - Live previews
 - Fullscreen mode
 - Cross platform
-## Used Technologies:
+
+## 🛠 Skills Used
 ReactJS, Bootstrap, HTML & CSS.
